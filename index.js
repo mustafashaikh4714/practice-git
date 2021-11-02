@@ -2,7 +2,7 @@ const add = (a, b) => {
   return a + b
 }
 
-add(10, 20)
+add(10, 21)
 
 const sub = (a, b) => {
   return a - b
