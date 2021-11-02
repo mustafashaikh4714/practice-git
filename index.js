@@ -5,6 +5,7 @@ const add = (a, b) => {
 add(10, 21)
 
 const sub = (a, b) => {
+  console.log({ a, b })
   return a - b
 }
 
