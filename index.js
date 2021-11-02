@@ -1,4 +1,5 @@
 const add = (a, b) => {
+  console.log('log')
   return a + b
 }
 
