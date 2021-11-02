@@ -11,3 +11,5 @@ const sub = (a, b) => {
 }
 
 sub(10, 20)
+
+console.log('log')
